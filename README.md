@@ -6,7 +6,7 @@
 ```bash
 git clone https://github.com/clay1299/TellBook.git
 ```
-Так же можно [скачать](https://github.com/clay1299/TellBook/releases/download/v1.0/TellBook.exe) exe файл
+Также можно [скачать](https://github.com/clay1299/TellBook/releases/download/v1.0/TellBook.exe) exe файл
 ## Основные функции
 - Реализовано хранение данных, их чтение, добавление и удаление, поиск и сортировка.
 
